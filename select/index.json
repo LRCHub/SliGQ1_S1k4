@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Labios Compartidos",
+  "base_artist": "Maná",
+  "createdAt": "2026-03-23T03:45:24.051795Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Labios compartidos",
+      "artist": "La Colombian Power",
+      "has_synced": true,
+      "path": "select/01_Labios_compartidos_La_Colombian_Power.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Labios compartidos - Urban Version",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/02_Labios_compartidos_-_Urban_Version_Maná.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Labios compartidos (Urban Version)",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/03_Labios_compartidos_(Urban_Version)_Maná.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Labios Compartidos",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/04_Labios_Compartidos_Maná.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Labios Compartidos",
+      "artist": "MANA",
+      "has_synced": true,
+      "path": "select/05_Labios_Compartidos_MANA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lábios Divididos (Labios Compartidos)",
+      "artist": "Gustavo Lima",
+      "has_synced": true,
+      "path": "select/06_Lábios_Divididos_(Labios_Compartidos)_Gustavo_Lima.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lábios divididos (Labios compartidos)",
+      "artist": "Gusttavo Lima",
+      "has_synced": true,
+      "path": "select/07_Lábios_divididos_(Labios_compartidos)_Gusttavo_Lima.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Labios Compartidos (Urban Version)",
+      "artist": "Mana",
+      "has_synced": true,
+      "path": "select/08_Labios_Compartidos_(Urban_Version)_Mana.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Labios Compartidos (Album Version)",
+      "artist": "Mana",
+      "has_synced": true,
+      "path": "select/09_Labios_Compartidos_(Album_Version)_Mana.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Labios Compartidos",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/10_Labios_Compartidos_Maná.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Labios Compartidos",
+      "artist": "Mana",
+      "has_synced": true,
+      "path": "select/11_Labios_Compartidos_Mana.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Labios Compartidos",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/12_Labios_Compartidos_Maná.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Labios Compartidos",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/13_Labios_Compartidos_Maná.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Labios Compartidos (Album Version)",
+      "artist": "Mana",
+      "has_synced": true,
+      "path": "select/14_Labios_Compartidos_(Album_Version)_Mana.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Labios compartidos - En vivo",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/15_Labios_compartidos_-_En_vivo_Maná.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Labios Compartidos",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/16_Labios_Compartidos_Maná.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Labios compartidos",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/17_Labios_compartidos_Maná.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Labios Compartidos",
+      "artist": "Maná",
+      "has_synced": false,
+      "path": "select/pl_01_Labios_Compartidos_Maná.txt"
+    }
+  ]
+}
